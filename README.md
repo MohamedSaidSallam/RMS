@@ -4,6 +4,21 @@ Recipe Management System: a software that aids and organises the cooking and pre
 
 This is the index repo which points to all of the other components of the software.
 
+## Table of Contents
+
+- [RMS](#rms)
+  - [Table of Contents](#table-of-contents)
+  - [**Disclaimer**](#disclaimer)
+  - [Important Files](#important-files)
+  - [Repositories](#repositories)
+    - [RMS_DB](#rms_db)
+    - [RMS_API](#rms_api)
+    - [Wrappers](#wrappers)
+      - [RMS_C#Lib](#rms_clib)
+      - [RMS_PyWrapper](#rms_pywrapper)
+    - [Apps/Clients](#appsclients)
+    - [Webscraper](#webscraper)
+
 ## **Disclaimer**
 
 > First Large Project. So feedback is appreciated.
