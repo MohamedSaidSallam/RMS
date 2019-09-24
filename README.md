@@ -19,13 +19,13 @@ This is the index repo which points to all of the other components of the softwa
 
 The database schema, non-recipe data and documentation.
 
-Written for: MS SQL Server
+Written for: MS SQL Server.
 
 ### [RMS_API]
 
 The REST API that provides an interface for the database and useful functionality.
 
-Written in: Python, Flask
+Written in: Python, Flask.
 
 ### Wrappers
 
@@ -47,6 +47,14 @@ A wrapper python module for the API functions that provides easy way to interact
 
 *: I'm willing to experiment with .net core cross platform capabilities in the future.
 
+### Webscraper
+
+Webscrapers that converts a recipe from a popular website into a RMS compatiable Recipe.
+
+| Name       | Website | Brief Description |
+| ---------- | :-----: | ----------------- |
+| [RMS_XXXX] |  XXXX   | XXXX              |
+
 [RMS_DB]:           https://github.com/TheDigitalPhoenixX/RMS_DB
 [RMS_API]:          https://github.com/TheDigitalPhoenixX/RMS_API
 [RMS_C#Lib]:        https://github.com/TheDigitalPhoenixX/RMS_C#Lib
@@ -54,3 +62,4 @@ A wrapper python module for the API functions that provides easy way to interact
 [RMS_DesktopApp]:   https://github.com/TheDigitalPhoenixX/RMS_DesktopApp
 [RMS_AndroidApp]:   https://github.com/TheDigitalPhoenixX/RMS_AndroidApp
 [RMS_WebApp]:       https://github.com/TheDigitalPhoenixX/RMS_WebApp
+[RMS_XXXX]:         https://github.com/TheDigitalPhoenixX/RMS_XXXX
